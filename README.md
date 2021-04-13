@@ -28,7 +28,9 @@ Phone system? Android emu behind the scenes with VNC access root
 
 # Installation
 sudo apt install snap
+
 sudo snap install novnc
+
 sudo apt install wireguard
 
 
