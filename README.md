@@ -24,3 +24,11 @@ host:[port]/[randomized_string].html
 Search history for 4/11/2021 4/12/2021
 
 Phone system? Android emu behind the scenes with VNC access root
+
+
+# Installation
+sudo apt install snap
+sudo snap install novnc
+sudo apt install wireguard
+
+
