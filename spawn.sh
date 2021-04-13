@@ -3,6 +3,8 @@
 # Author: Jared Weisinger
 # Description: Spawn a NoVNC process that contains a static HTML5 front-end, a websocket 'proxy' backend, with rotating encryption. 
 
+# Disclaimer: This probably doesn't work. Search engines are acting strange for me. Can't get the right combo for openssl... health problems don't help either.
+
 RND=$RANDOM
 mkdir "/srv/novncsessions/$1_$RND/"
 mkdir "/srv/novnc/sessions/$1_$RND/cert/"
